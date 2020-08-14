@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "cheerio": "^1.0.0-rc.3",
+    "koa": "^2.13.0",
+    "koa-art-template": "^1.1.1",
+    "koa-router": "^9.4.0",
+    "superagent": "^6.0.0"
+  }
+}
